@@ -1,0 +1,13 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Emulator config file set to d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] DiagnosticsStoreRootPath set to: C:\Users\Taiki Yoshida\AppData\Local\dftmp\Resources\749cf780-679e-4820-9890-bb4873646eac
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Loading config file: d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Config file to read: d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Emulator config file set to d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:39] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2016/09/25 3:47:40] Killing any MonAgentHost that might remain.

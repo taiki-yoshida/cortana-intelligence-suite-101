@@ -1,0 +1,116 @@
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\bin\Debug\ServiceConfiguration.cscfg
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\bin\Debug\ServiceDefinition.csdef
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\bin\Debug\ValidationIssues.xml
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\de\Microsoft.Data.Edm.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\de\Microsoft.Data.OData.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\de\Microsoft.Data.Services.Client.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\de\System.Spatial.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\es\Microsoft.Data.Edm.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\es\Microsoft.Data.OData.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\es\Microsoft.Data.Services.Client.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\es\System.Spatial.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\fr\Microsoft.Data.Edm.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\fr\Microsoft.Data.OData.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\fr\Microsoft.Data.Services.Client.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\fr\System.Spatial.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\it\Microsoft.Data.Edm.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\it\Microsoft.Data.OData.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\it\Microsoft.Data.Services.Client.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\it\System.Spatial.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ja\Microsoft.Data.Edm.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ja\Microsoft.Data.OData.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ja\Microsoft.Data.Services.Client.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ja\System.Spatial.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ko\Microsoft.Data.Edm.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ko\Microsoft.Data.OData.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ko\Microsoft.Data.Services.Client.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ko\System.Spatial.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.Data.Edm.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.Data.OData.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.Data.Services.Client.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.ServiceBus.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Configuration.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Diagnostics.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Storage.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\MonAgentListener.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Newtonsoft.Json.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ru\Microsoft.Data.Edm.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ru\Microsoft.Data.OData.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ru\Microsoft.Data.Services.Client.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ru\System.Spatial.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.Extensions.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.Formatting.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.Primitives.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.WebRequest.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Spatial.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\WorkerRole1.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\WorkerRole1.dll.config
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\WorkerRole1.pdb
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hans\Microsoft.Data.Edm.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hans\Microsoft.Data.OData.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hans\System.Spatial.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hant\Microsoft.Data.Edm.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hant\Microsoft.Data.OData.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+d:\my documents\visual studio 2015\Projects\CloudService.EventHub.Sender\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hant\System.Spatial.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\bin\Debug\ServiceConfiguration.cscfg
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\bin\Debug\ServiceDefinition.csdef
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\bin\Debug\ValidationIssues.xml
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\de\Microsoft.Data.Edm.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\de\Microsoft.Data.OData.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\de\Microsoft.Data.Services.Client.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\de\System.Spatial.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\es\Microsoft.Data.Edm.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\es\Microsoft.Data.OData.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\es\Microsoft.Data.Services.Client.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\es\System.Spatial.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\fr\Microsoft.Data.Edm.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\fr\Microsoft.Data.OData.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\fr\Microsoft.Data.Services.Client.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\fr\System.Spatial.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\it\Microsoft.Data.Edm.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\it\Microsoft.Data.OData.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\it\Microsoft.Data.Services.Client.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\it\System.Spatial.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ja\Microsoft.Data.Edm.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ja\Microsoft.Data.OData.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ja\Microsoft.Data.Services.Client.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ja\System.Spatial.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ko\Microsoft.Data.Edm.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ko\Microsoft.Data.OData.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ko\Microsoft.Data.Services.Client.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ko\System.Spatial.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.Data.Edm.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.Data.OData.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.Data.Services.Client.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.ServiceBus.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Configuration.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Diagnostics.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Storage.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\MonAgentListener.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\Newtonsoft.Json.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ru\Microsoft.Data.Edm.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ru\Microsoft.Data.OData.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ru\Microsoft.Data.Services.Client.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\ru\System.Spatial.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.Extensions.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.Formatting.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.Primitives.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Net.Http.WebRequest.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\System.Spatial.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\WorkerRole1.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\WorkerRole1.dll.config
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\WorkerRole1.pdb
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hans\System.Spatial.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\My Documents\GitHub\simple-webapi-to-eventhub\src\CloudService.EventHub.Sender\obj\Debug\WorkerRole1\zh-Hant\System.Spatial.resources.dll
